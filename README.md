@@ -1,6 +1,3 @@
-Here's the complete **README.md** file for your **Parking Lot System - Low-Level Design (LLD)** project:
-
-```markdown
 # 🚗 Parking Lot System - Low-Level Design (LLD)
 
 ## 📌 Overview
@@ -66,6 +63,4 @@ This project is **open-source** under the **MIT License**.
 
 ---
 🚀 **Happy Coding!** 🎯
-```
 
-You can save this as **README.md** and include it in your GitHub repository. Let me know if you need any modifications! 🚀📄
